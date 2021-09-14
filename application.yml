@@ -1,1 +1,7 @@
-lo que sea. Bonito dia
+grupo: "Acadaemia"
+
+aplicacion:
+  version: 1.0
+  pais: "mx"
+  lenguaje: "es"
+  
